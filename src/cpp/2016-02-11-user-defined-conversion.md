@@ -34,6 +34,9 @@ int main() {
 Since c++11, we can use explicit qualifier to force the type conversion to be
 explicit.
 
+Although the type conversion can be easily replaced by member function, it is
+still good to know.
+
 ---
 
 1. http://en.cppreference.com/w/cpp/language/cast_operator
