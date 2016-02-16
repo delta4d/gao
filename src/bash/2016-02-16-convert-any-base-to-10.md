@@ -14,5 +14,5 @@ $ echo $((16#ff))
 ```
 
 The maximum base is up to 64, include `0-9`, `a-z`, `A-Z`, `@` and `_`. It seems
-there is not an universal to way to do the other way around, but we can use
+that there is no universal way to do the other way around, but we can use
 `printf` to get octal or hex output.
