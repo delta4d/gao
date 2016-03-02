@@ -1,7 +1,7 @@
 # the post is created compatible with jekyll
 
 WORK_DIR = 'src'
-EDITOR   = ENV['EDITOR'] || 'gvim'
+EDITOR   = ENV['EDITOR'] || 'atom'
 
 def filename file
 	Time.now.strftime('%Y-%m-%d-') + file.split.join('-') + '.md'
