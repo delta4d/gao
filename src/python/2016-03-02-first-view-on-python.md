@@ -16,3 +16,6 @@ should use `collections.deque` instead.
 - `del` seems different from others.
 - mutable operation always return `None`, it seems we can not chain operations.
 - `str.format()` seems like `println!()` in rust.
+- dictionary keys can only be `number`, `string` or tuple contain only `number` or `string` recursively
+- set can contain any datatypes
+- every function returns, default is `None`
