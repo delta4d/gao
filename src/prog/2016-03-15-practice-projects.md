@@ -16,3 +16,4 @@ tags: []
 - Chinese word segmentation
 - lisp parser
 - lisp compiler
+- chrome advanced search plugin
